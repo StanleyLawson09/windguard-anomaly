@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyd
+
+# Model artifacts
+model/model.pkl
+model/scaler.pkl
+model/features.pkl
+
+# Dataset (large file)
+data/ai4i2020.csv
+
+# Logs
+monitoring/logs/prediction.csv
