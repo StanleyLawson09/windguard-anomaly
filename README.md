@@ -25,6 +25,8 @@ AI4I 2020 Predictive Maintenance Dataset (UCI ML Repository, ID:601)
 
 
 # Setup
+python -m venv venv
+venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 
